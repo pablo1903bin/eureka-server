@@ -1,4 +1,4 @@
-package com.vaxi.springbootmicroservice4eureka;
+package com.eureka_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
